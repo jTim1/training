@@ -4,7 +4,7 @@ arr2.push('one');
 arr2.push('two');
 console.log(arr2);
 
-const person = {
+/*const person = {
     lastName : 'amach',
     firstName : 'fatima',
     gender : 'female'
@@ -42,5 +42,5 @@ for(let n of numbers){
     sum += n;
 }*/
 
-const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+//const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 
