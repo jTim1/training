@@ -2,3 +2,6 @@
 out/
 target/
 .DS_Store
+
+web/.idea
+web/javascript/typescript/from-scratch/node_modules/*
